@@ -46,7 +46,7 @@ const HeroContent = () => {
         >
           👨‍💻 Computer Science student at York University 🎓 | Web & Game Dev
           enthusiast 🌐🎮 | Java, C, JavaScript coder ☕💻 | Turning ideas into
-          reality 🚀 | Let's connect!
+          reality 🚀 | Lets connect!
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
